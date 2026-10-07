@@ -1,0 +1,7 @@
+.venv/
+Balik_Tespiti.v2i.yolov11/
+runs/
+*.pt
+__pycache__/
+.vscode/
+.idea/
